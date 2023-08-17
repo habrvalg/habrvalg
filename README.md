@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🏷️ My name is ### Andrei Kopasov
-- 🎓 I recently graduated with a degree in Information Security 
-- Now I'm getting back into python programming
+- 🏷️ My name is **Andrei Kopasov**
+- 🎓 I recently graduated with a degree in **Information Security** 
+- Now I'm getting back into Python programming
 - I will be glad to your attention!
 
 <!--
