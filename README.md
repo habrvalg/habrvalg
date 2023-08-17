@@ -1,8 +1,14 @@
 ### Hi there 👋
-- 🏷️ My name is **Andrei Kopasov**
+- 🏷️ My name is <a href="https://hh.ru/resume/8325e059ff0c2e67120039ed1f537a42684f55" target="_blank">**Andrei Kopasov**</a>
 - 🎓 I recently graduated with a degree in **Information Security** 🛡️
 - 💻 Now I'm getting back into Python programming 🐍
 - 😊 I will be glad to your attention!
+- You can contact me:
+
+  Telegram: **befussy**
+  
+  <a href="https://t.me/befussy">
+    <img src="https://i.ibb.co/2stK2xn/photo-2023-08-18-00-47-47.jpg" alt="photo-2023-08-18-00-47-47" border="0"> </a>
 
 <!--
 **habrvalg/habrvalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
